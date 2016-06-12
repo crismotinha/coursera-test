@@ -1,0 +1,30 @@
+*`{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+#header-nav {
+	height: 100px;
+}
+#nav-list {
+	margin-top: 10px;
+}
+#nav-list.dropdown-menu.visible-xs {
+	width: 100% ;
+	text-align: center;
+	box-shadow: none;
+	background-color: #00b0b6;
+}
+
+#nav-list a {
+  color: black;
+  font-size: 1.2em;
+}
+.navbar-header button.navbar-toggle {
+	clear: both;
+}
+#big-section {
+	height: 1000px;
+	background-color: #fae4e7;
+}
+
